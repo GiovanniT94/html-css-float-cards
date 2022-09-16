@@ -10,7 +10,8 @@ h1 {
 }
 
 .lorem1 {
-    text-align: middle;
+	max-width: 10000;
+    text-align: center;
     margin-bottom: 40px;
 }
 
